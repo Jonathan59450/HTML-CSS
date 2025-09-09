@@ -1,0 +1,46 @@
+<?php
+echo "Hello, World!";
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'accueil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Bonjour Outman 👋</h1>
+    <p>La page d'accueil fonctionne</p>
+    <a href="index.html" ></a>
+
+<tr>
+<div class="centre">
+    <a href="autre.html" >
+        <button>Clique pas ici</button>
+    </a>
+</div>
+<br>
+<br>
+<h2><strong><nav>
+    <a href="accueil.html">Accueil</a> |
+    <a href="service.html">Service</a> | 
+    <a href="contact.html">Contact</a> 
+
+    
+</nav></strong></h2>
+<section>Sympa l'image non ? ​🤔​</section>
+
+<br>
+<br>
+
+<div class="card">
+    <img src="https://wallpapers.com/images/hd/4k-neon-submerged-eikuh597mjzfggrz.jpg" alt="néon">
+    <div class="card-content">
+        <h3>Merci Lorem 🫶​ :</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam doloremque, quibusdam esse distinctio molestias sunt nostrum similique illum vel natus iure consectetur alias amet quae omnis atque ipsam, dolor deleniti.</p>
+    </div>
+    
+</body>
+</html>
